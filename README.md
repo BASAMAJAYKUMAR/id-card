@@ -1,31 +1,188 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
-<h1 align="center">Hi 👋, I'm BASAM AJAY KUMAR</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basamajaykumar&label=Profile%20views&color=0e75b6&style=flat" alt="basamajaykumar" /> </p>
+<!DOCTYPE html>
+<html lang="en">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basamajaykumar" alt="basamajaykumar" /></a> </p>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+    <title>ID Card</title>
+<style>
+    
+body {
+    font-family: 'Poppins';
+    background: #24252F;
+}
+section {
+    display: flex;
+    justify-content: space-evenly;
+}
+.box {
+    background-color: #eb6740;
+    height: 12rem;
+    border-radius: 0px 0px 131px 0px;
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+}
 
-- 🌱 I’m currently learning **Web Development**
+#box1 {
+    height: 10rem;
+    background-color: #46386b;
+    border-radius: 0px 0px 100px 0px;
 
-- 💬 Ask me about **Web Development**
+}
 
-- 📫 How to reach me **basamajaykumar23@gmail.com**
+.box-2 {
+    height: 30rem;
+    background-color: whitesmoke;
+    width: 18rem;
+}
 
-- ⚡ Fun fact **I am Funny**
+.footer-box {
+    background-color: #46386b;
+    height: 3rem;
+    margin-top: 16rem;
+    border-radius: 12px 12px 0px 0px;
+}
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/basam ajay kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basam ajay kumar" height="30" width="40" /></a>
-</p>
+.footer-box1 {
+    background-color: #eb6740;
+    height: 9px;
+    border-radius: 150px 150px 0px 0px;
+}
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
+#show-image {
+    height: 110px;
+    width: 110px;
+    border: 5px solid white;
+    border-radius: 50%;
+    text-align: center;
+    object-fit: fill;
+    overflow: hidden;
+    background: gray;
+    margin-top: 7rem;
+}
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basamajaykumar&show_icons=true&locale=en&layout=compact" alt="basamajaykumar" /></p>
+.img {
+    text-align: center;
+}
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basamajaykumar&show_icons=true&locale=en" alt="basamajaykumar" /></p>
+form {
+    /* background-color: whitesmoke; */
+    width: 300px;
+    height: 280px;
+    padding: 20px;
+    position: relative;
+    top: 30px;
+}
+form input {
+    border: navajowhite;
+    height: 32px;
+    width: 188px;
+    padding-left: 16px;
+}
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basamajaykumar&" alt="basamajaykumar" /></p>
+p {
+    margin: 3px;
+}
+
+.p1 {
+    margin: 0px;
+    font-size: 20px;
+    color: #f5734c;
+}
+
+.p2 {
+    margin: 0px;
+    font-size: 12px;
+}
+
+.p-box {
+    font-size: 11px;
+    margin-top: 28px;
+    margin-left: 59px;
+}
+.logo {
+    position: absolute;
+    color: #F5F5F5;
+    font-weight: 200;
+    margin: 3.3rem 0rem 0rem 5rem;
+}
+.name-box {
+    padding: 15px;
+}
+@media only screen and (max-width: 480px) {
+    section {
+        flex-direction: column-reverse;
+        justify-self: center;
+    }
+    form {
+        margin-top: 4rem;
+    }
+}
+</style>
+</head>
+
+<body>
+    <section>
+        <form>
+            <input type="text" id="name" onkeyup="getvalues('name')" placeholder="Full Name"><br><br>
+            <input type="number" min="1" max="100" id="ID NO" onkeyup="getvalues('ID NO')" placeholder="ID NO"><br><br>
+            <input type="email" id="email" onkeyup="getvalues('email')" placeholder="Email"><br><br>
+            <input type="tel" id="tel" min="1" max="10" onkeyup="getvalues('tel')" placeholder="Phone No"><br><br>
+            <input type="file" id="myfile" name="myfile"><br><br>
+        </form>
+
+
+
+        <div class="box-2" id="printMe">
+            <div class="box">
+                <div id="box1">
+                    <div class="img">
+                        <h2 class="logo">Aura <span style="color: #eb6740">Store</span></h2>
+                        <img src="#" id="show-image">
+                        <div class="name-box">
+                            <h2 class="p1" id="name-view">MICHAL SIMITH</h2>
+                            <p class="p2">Web Desiner</p>
+                        </div>
+                    </div>
+                    <div class="p-box">
+                        <!-- <span> ID NO:<p id="ID NO-view"></p></span> -->
+                        <p>ID NO : <span id="ID NO-view"></span></p>
+                        <p>E-mail : <span id="email-view"></span></p>
+                        <p>Phone No : <span id="tel-view"></span></p>
+                        <p><span id="ID NO-view"></span></p>
+                    </div>
+                </div>
+            </div>
+
+            <footer>
+                <div class="footer-box">
+                    <div class="footer-box1"></div>
+                </div>
+            </footer>
+        </div>
+    </section>
+
+</body>
+<script>
+    // // // ID Card
+function getvalues(currentId) {
+    let selectedField = document.getElementById(currentId);
+    let fieldValue = selectedField.value;
+    console.log(fieldValue);
+    document.getElementById(currentId + "-view").innerHTML = fieldValue;
+  }
+
+
+
+
+let inputImg = document.querySelector('#myfile');
+let showImage = document.querySelector('#show-image');
+
+inputImg.addEventListener('change', function(event) {
+    var tempUrl = URL.createObjectURL(event.target.files[0])
+    showImage.setAttribute('src', tempUrl)
+
+})
+</script>
+</html>
